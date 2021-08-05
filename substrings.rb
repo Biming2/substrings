@@ -12,5 +12,4 @@ def substrings(text, dictionary)
   puts matching
 end
 
-# word_hash = words_to_hash("How's it going, partner?")
 substrings("How's it going, partner?", DICTIONARY)
